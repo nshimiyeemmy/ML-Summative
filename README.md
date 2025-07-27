@@ -22,7 +22,7 @@ This project consists of three integrated components:
 `https://ml-summative-fmbr.onrender.com/docs`  
 
 ### Demo Video Link:
-`https://your-link-to-the-demo` 
+`https://www.bugufi.link/oZr5PD` 
 
 ## Key Features
 
