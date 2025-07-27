@@ -21,6 +21,9 @@ This project consists of three integrated components:
 ### Swagger UI Documentation:
 `https://ml-summative-fmbr.onrender.com/docs`  
 
+### Demo Video Link:
+`https://your-link-to-the-demo` 
+
 ## Key Features
 
 - **Performance Prediction**: Predicts math scores based on 7 key factors
@@ -39,7 +42,7 @@ This project consists of three integrated components:
 ```bash
 # Clone repository
 1. Clone the repository:
-```bash
+```
 git clone https://github.com/nshimiyeemmy/ML-Summative.git
 ```
 2. Navigate to the project directory
