@@ -26,7 +26,7 @@ class PredictionProvider with ChangeNotifier {
 
     try {
       final response = await http.post(
-        Uri.parse('http://your-api-url/predict'),
+        Uri.parse('https://ml-summative-fmbr.onrender.com/predict'),
         headers: {'Content-Type': 'application/json'},
         body: json.encode({
           'gender': gender,
